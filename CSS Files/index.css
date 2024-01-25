@@ -18,6 +18,8 @@ body, .navi {
     overflow: hidden;
 }
 
+
+
 header {  
     position: relative;
     margin-left: 2%;
@@ -25,10 +27,16 @@ header {
  
 .navi {
     position: relative;
-    margin-left: 2%;
     font-size: 20px;
     color: #023047;
-    background-color:#219EBC
+    background-color:#219EBC;
+    right: 38px;
+    margin-top: 44px;
+}
+
+a{  
+    margin-right: 10px;
+    font-size: 20px;
     
 }
 
