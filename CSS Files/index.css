@@ -135,5 +135,9 @@ a:link {
 
   footer {  
     color: #023047;
+    margin: 2%;
+    padding-top: 30px;
+    font-size: smaller;
+    
   }
 
